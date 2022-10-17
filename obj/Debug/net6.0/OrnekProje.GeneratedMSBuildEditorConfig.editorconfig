@@ -14,3 +14,7 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\ANAN\source\repos\OrnekProje\OrnekProje
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ANAN/source/repos/OrnekProje/OrnekProje/Views/Product/GetProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXRQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

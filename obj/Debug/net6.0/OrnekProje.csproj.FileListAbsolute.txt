@@ -19,3 +19,5 @@ C:\Users\ANAN\source\repos\OrnekProje\OrnekProje\obj\Debug\net6.0\refint\OrnekPr
 C:\Users\ANAN\source\repos\OrnekProje\OrnekProje\obj\Debug\net6.0\OrnekProje.pdb
 C:\Users\ANAN\source\repos\OrnekProje\OrnekProje\obj\Debug\net6.0\OrnekProje.genruntimeconfig.cache
 C:\Users\ANAN\source\repos\OrnekProje\OrnekProje\obj\Debug\net6.0\ref\OrnekProje.dll
+C:\Users\ANAN\source\repos\OrnekProje\OrnekProje\obj\Debug\net6.0\OrnekProje.RazorAssemblyInfo.cache
+C:\Users\ANAN\source\repos\OrnekProje\OrnekProje\obj\Debug\net6.0\OrnekProje.RazorAssemblyInfo.cs

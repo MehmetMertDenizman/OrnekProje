@@ -16,10 +16,11 @@
             app.UseRouting();
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapGet("/", async context =>
+               /* endpoints.MapGet("/", async context =>
                 {
                     await context.Response.WriteAsync("ANAN");
-                });
+                });*/
+               endpoints.MapDefaultControllerRoute();
 
             });
 
